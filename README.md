@@ -1,2 +1,2 @@
-# Youtube-project
-This is a project based on extraction or scrapping of data from YouTube channels and storing them in MongoDb data lake and transfering it in a structured format in Sql.
+# YoutubeDataHarvesting-project
+This is a project based on extraction of data from YouTube channels using Youtube API key and storing them in MongoDb as a database and bringing it in a structured format in MySql and displaying queries in Streamlit app.
